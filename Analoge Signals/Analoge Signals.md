@@ -18,5 +18,6 @@ So Above Signals are of two Variations.
 1) Continious Time
 2) Discrete Time.
  to me more Presise it is called Time Domin. Its like POV of signal.Based on once need and Analysis any type of signal can be analysis in different time domin.
+
  ...................................................................................................................
  
